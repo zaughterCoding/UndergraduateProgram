@@ -1,0 +1,12 @@
+accelerate==1.1.1
+bitsandbytes==0.45.0
+datasets==3.1.0
+liger_kernel==0.5.5
+peft==0.14.0
+qwen_vl_utils==0.0.10
+rouge_chinese==1.0.3
+torch==2.5.1
+tqdm==4.67.1
+transformers==4.49.0
+tensorboard
+rouge-chinese
